@@ -6,7 +6,7 @@
 
             <div class="flex_item" data-id="#ja_to_enbox" data-questiontype="1">
 	      			<p class="nav_label">B</p>
-	      			<p class="nav_ttl">日英四択</p>
+	      			<p class="nav_ttl">あー日英四択</p>
 	      		</div>
 
 

@@ -27,7 +27,7 @@
 
 	      		<div id="exam_timer" class="float_box">
 	      			<p class="timer_label">制限時間</p>
-	      			<p id="exam_timer_count" class="timer_time">14:56</p>
+	      			<p id="exam_timer_count" class="timer_time">14:55</p>
 	      		</div>
 	      	</div>
 
@@ -404,7 +404,7 @@
         <div class="min_exam_container" style="margin-top: 90px;">
           
           <div id="contents" class="">
-            <div id="exam_questions_wrapper" data-exam-id="747161" data-additional-exam-id="">
+            <div id="exam_questions_wrapper" data-exam-id="747171" data-additional-exam-id="">
   <div id="exam_kyebord" class="ui-keyboard-input ui-widget-content ui-corner-all" aria-haspopup="true" role="textbox"></div>
 
 
@@ -422,13 +422,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>01</p></div>
-            <p class="exam_word">娯楽</p>
+            <p class="exam_word">決心する</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="0" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630298" data-minexam-id="01">
-              <a href="#" class="exam_btn default">culture</a>
-              <a href="#" class="exam_btn default">entertainment</a>
-              <a href="#" class="exam_btn default">magic</a>
-              <a href="#" class="exam_btn default">tune</a>
+          <div class="exam_inner_area exam_choice_area" data-index="0" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630798" data-minexam-id="01">
+              <a href="#" class="exam_btn default">make one’s living</a>
+              <a href="#" class="exam_btn default">take one’s time</a>
+              <a href="#" class="exam_btn default">make up one’s mind</a>
+              <a href="#" class="exam_btn default">catch one’s eye</a>
           </div>
         </div>
       </div>
@@ -436,13 +436,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>02</p></div>
-            <p class="exam_word">映画</p>
+            <p class="exam_word">Aに（Bを）期待する</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="1" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630299" data-minexam-id="02">
-              <a href="#" class="exam_btn default">temple</a>
-              <a href="#" class="exam_btn default">stadium</a>
-              <a href="#" class="exam_btn default">film</a>
-              <a href="#" class="exam_btn default">theater</a>
+          <div class="exam_inner_area exam_choice_area" data-index="1" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630799" data-minexam-id="02">
+              <a href="#" class="exam_btn default">look to A (for B)</a>
+              <a href="#" class="exam_btn default">get together with A（for B）</a>
+              <a href="#" class="exam_btn default">pass A on （to B）</a>
+              <a href="#" class="exam_btn default">have A in common （with B）</a>
           </div>
         </div>
       </div>
@@ -450,13 +450,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>03</p></div>
-            <p class="exam_word">文化</p>
+            <p class="exam_word">さらに悪いことに</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="2" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630300" data-minexam-id="03">
-              <a href="#" class="exam_btn default">amusement</a>
-              <a href="#" class="exam_btn default">hobby</a>
-              <a href="#" class="exam_btn default">appetite</a>
-              <a href="#" class="exam_btn default">culture</a>
+          <div class="exam_inner_area exam_choice_area" data-index="2" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630800" data-minexam-id="03">
+              <a href="#" class="exam_btn default">on the other hand</a>
+              <a href="#" class="exam_btn default">to make matters worse</a>
+              <a href="#" class="exam_btn default">on the whole</a>
+              <a href="#" class="exam_btn default">in the first place</a>
           </div>
         </div>
       </div>
@@ -464,13 +464,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>04</p></div>
-            <p class="exam_word">自然（界）</p>
+            <p class="exam_word">（Bと）共通のAを持つ</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="3" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630301" data-minexam-id="04">
-              <a href="#" class="exam_btn default">nature</a>
-              <a href="#" class="exam_btn default">temperature</a>
-              <a href="#" class="exam_btn default">wind</a>
-              <a href="#" class="exam_btn default">thunder</a>
+          <div class="exam_inner_area exam_choice_area" data-index="3" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630801" data-minexam-id="04">
+              <a href="#" class="exam_btn default">pass A on (to B)</a>
+              <a href="#" class="exam_btn default">get together with A (for B)</a>
+              <a href="#" class="exam_btn default">have A in common (with B)</a>
+              <a href="#" class="exam_btn default">look to A (for B)</a>
           </div>
         </div>
       </div>
@@ -478,13 +478,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>05</p></div>
-            <p class="exam_word">アニメ</p>
+            <p class="exam_word">～をだます</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="4" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630302" data-minexam-id="05">
-              <a href="#" class="exam_btn default">film</a>
-              <a href="#" class="exam_btn default">magic</a>
-              <a href="#" class="exam_btn default">cartoon</a>
-              <a href="#" class="exam_btn default">photograph</a>
+          <div class="exam_inner_area exam_choice_area" data-index="4" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630802" data-minexam-id="05">
+              <a href="#" class="exam_btn default">take in ～</a>
+              <a href="#" class="exam_btn default">make up for ～</a>
+              <a href="#" class="exam_btn default">set up ～</a>
+              <a href="#" class="exam_btn default">turn down ～</a>
           </div>
         </div>
       </div>
@@ -492,13 +492,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>06</p></div>
-            <p class="exam_word">旗</p>
+            <p class="exam_word">～によって</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="5" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630303" data-minexam-id="06">
-              <a href="#" class="exam_btn default">continent</a>
-              <a href="#" class="exam_btn default">passenger</a>
-              <a href="#" class="exam_btn default">flag</a>
-              <a href="#" class="exam_btn default">ray</a>
+          <div class="exam_inner_area exam_choice_area" data-index="5" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630803" data-minexam-id="06">
+              <a href="#" class="exam_btn default">instead of ～</a>
+              <a href="#" class="exam_btn default">in case of ～</a>
+              <a href="#" class="exam_btn default">in common with ～</a>
+              <a href="#" class="exam_btn default">by means of ～</a>
           </div>
         </div>
       </div>
@@ -506,13 +506,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>07</p></div>
-            <p class="exam_word">乗客</p>
+            <p class="exam_word">容易に</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="6" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630304" data-minexam-id="07">
-              <a href="#" class="exam_btn default">merchant</a>
-              <a href="#" class="exam_btn default">leader</a>
-              <a href="#" class="exam_btn default">editor</a>
-              <a href="#" class="exam_btn default">passenger</a>
+          <div class="exam_inner_area exam_choice_area" data-index="6" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630804" data-minexam-id="07">
+              <a href="#" class="exam_btn default">in general</a>
+              <a href="#" class="exam_btn default">more or less</a>
+              <a href="#" class="exam_btn default">on (an / the) average</a>
+              <a href="#" class="exam_btn default">with ease</a>
           </div>
         </div>
       </div>
@@ -520,13 +520,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>08</p></div>
-            <p class="exam_word">（に）勝つ</p>
+            <p class="exam_word">たとえ…だとしても</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="7" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630305" data-minexam-id="08">
-              <a href="#" class="exam_btn default">entertain</a>
-              <a href="#" class="exam_btn default">fight</a>
-              <a href="#" class="exam_btn default">beat</a>
-              <a href="#" class="exam_btn default">win</a>
+          <div class="exam_inner_area exam_choice_area" data-index="7" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630805" data-minexam-id="08">
+              <a href="#" class="exam_btn default">the moment (that) ...</a>
+              <a href="#" class="exam_btn default">as if [though] ...</a>
+              <a href="#" class="exam_btn default">even if ...</a>
+              <a href="#" class="exam_btn default">as soon as ...</a>
           </div>
         </div>
       </div>
@@ -534,13 +534,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>09</p></div>
-            <p class="exam_word">（に）荷物を詰める</p>
+            <p class="exam_word">～を引き起こす</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="8" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630306" data-minexam-id="09">
-              <a href="#" class="exam_btn default">wander</a>
-              <a href="#" class="exam_btn default">translate</a>
-              <a href="#" class="exam_btn default">pack</a>
-              <a href="#" class="exam_btn default">attend</a>
+          <div class="exam_inner_area exam_choice_area" data-index="8" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630806" data-minexam-id="09">
+              <a href="#" class="exam_btn default">get rid of ～</a>
+              <a href="#" class="exam_btn default">bring about ～</a>
+              <a href="#" class="exam_btn default">do away with ～</a>
+              <a href="#" class="exam_btn default">fill in ～</a>
           </div>
         </div>
       </div>
@@ -548,13 +548,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>10</p></div>
-            <p class="exam_word">得点</p>
+            <p class="exam_word">ところで</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="9" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630307" data-minexam-id="10">
-              <a href="#" class="exam_btn default">score</a>
-              <a href="#" class="exam_btn default">award</a>
-              <a href="#" class="exam_btn default">service</a>
-              <a href="#" class="exam_btn default">record</a>
+          <div class="exam_inner_area exam_choice_area" data-index="9" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630807" data-minexam-id="10">
+              <a href="#" class="exam_btn default">by the way</a>
+              <a href="#" class="exam_btn default">at first</a>
+              <a href="#" class="exam_btn default">at last</a>
+              <a href="#" class="exam_btn default">for example</a>
           </div>
         </div>
       </div>
@@ -562,13 +562,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>11</p></div>
-            <p class="exam_word">運動選手</p>
+            <p class="exam_word">わずか～</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="10" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630308" data-minexam-id="11">
-              <a href="#" class="exam_btn default">athlete</a>
-              <a href="#" class="exam_btn default">coach</a>
-              <a href="#" class="exam_btn default">principal</a>
-              <a href="#" class="exam_btn default">expert</a>
+          <div class="exam_inner_area exam_choice_area" data-index="10" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630808" data-minexam-id="11">
+              <a href="#" class="exam_btn default">no more than ～</a>
+              <a href="#" class="exam_btn default">all over ～</a>
+              <a href="#" class="exam_btn default">more or less ～</a>
+              <a href="#" class="exam_btn default">at last ～</a>
           </div>
         </div>
       </div>
@@ -576,13 +576,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>12</p></div>
-            <p class="exam_word">（最高）記録</p>
+            <p class="exam_word">例えば</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="11" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630309" data-minexam-id="12">
-              <a href="#" class="exam_btn default">hobby</a>
-              <a href="#" class="exam_btn default">score</a>
-              <a href="#" class="exam_btn default">victory</a>
-              <a href="#" class="exam_btn default">record</a>
+          <div class="exam_inner_area exam_choice_area" data-index="11" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630809" data-minexam-id="12">
+              <a href="#" class="exam_btn default">by the way</a>
+              <a href="#" class="exam_btn default">at first</a>
+              <a href="#" class="exam_btn default">for example [instance]</a>
+              <a href="#" class="exam_btn default">at last</a>
           </div>
         </div>
       </div>
@@ -590,13 +590,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>13</p></div>
-            <p class="exam_word">チップ</p>
+            <p class="exam_word">結果として</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="12" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630310" data-minexam-id="13">
-              <a href="#" class="exam_btn default">flavor</a>
-              <a href="#" class="exam_btn default">tip</a>
-              <a href="#" class="exam_btn default">fruit</a>
-              <a href="#" class="exam_btn default">service</a>
+          <div class="exam_inner_area exam_choice_area" data-index="12" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630810" data-minexam-id="13">
+              <a href="#" class="exam_btn default">that is (to say)</a>
+              <a href="#" class="exam_btn default">at a distance</a>
+              <a href="#" class="exam_btn default">on the whole</a>
+              <a href="#" class="exam_btn default">as a result</a>
           </div>
         </div>
       </div>
@@ -604,13 +604,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>14</p></div>
-            <p class="exam_word">写真</p>
+            <p class="exam_word">いずれにしても</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="13" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630311" data-minexam-id="14">
-              <a href="#" class="exam_btn default">tip</a>
-              <a href="#" class="exam_btn default">photograph</a>
-              <a href="#" class="exam_btn default">comic</a>
-              <a href="#" class="exam_btn default">service</a>
+          <div class="exam_inner_area exam_choice_area" data-index="13" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630811" data-minexam-id="14">
+              <a href="#" class="exam_btn default">in general</a>
+              <a href="#" class="exam_btn default">in any case [event]</a>
+              <a href="#" class="exam_btn default">for a moment</a>
+              <a href="#" class="exam_btn default">as usual</a>
           </div>
         </div>
       </div>
@@ -618,13 +618,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>15</p></div>
-            <p class="exam_word">休暇</p>
+            <p class="exam_word">ある意味では</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="14" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630312" data-minexam-id="15">
-              <a href="#" class="exam_btn default">path</a>
-              <a href="#" class="exam_btn default">journey</a>
-              <a href="#" class="exam_btn default">sightseeing</a>
-              <a href="#" class="exam_btn default">vacation</a>
+          <div class="exam_inner_area exam_choice_area" data-index="14" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630812" data-minexam-id="15">
+              <a href="#" class="exam_btn default">in a [one] sense</a>
+              <a href="#" class="exam_btn default">at least</a>
+              <a href="#" class="exam_btn default">in particular</a>
+              <a href="#" class="exam_btn default">by mistake</a>
           </div>
         </div>
       </div>
@@ -632,13 +632,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>16</p></div>
-            <p class="exam_word">賞</p>
+            <p class="exam_word">～の考えでは</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="15" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630313" data-minexam-id="16">
-              <a href="#" class="exam_btn default">score</a>
-              <a href="#" class="exam_btn default">victory</a>
-              <a href="#" class="exam_btn default">record</a>
-              <a href="#" class="exam_btn default">prize</a>
+          <div class="exam_inner_area exam_choice_area" data-index="15" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630813" data-minexam-id="16">
+              <a href="#" class="exam_btn default">for one’s sake</a>
+              <a href="#" class="exam_btn default">to one’s surprise</a>
+              <a href="#" class="exam_btn default">in one’s place</a>
+              <a href="#" class="exam_btn default">in one’s opinion [view]</a>
           </div>
         </div>
       </div>
@@ -646,13 +646,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>17</p></div>
-            <p class="exam_word">楽しみ</p>
+            <p class="exam_word">…するまでに（は）</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="16" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630314" data-minexam-id="17">
-              <a href="#" class="exam_btn default">tip</a>
-              <a href="#" class="exam_btn default">joke</a>
-              <a href="#" class="exam_btn default">amusement</a>
-              <a href="#" class="exam_btn default">task</a>
+          <div class="exam_inner_area exam_choice_area" data-index="16" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630814" data-minexam-id="17">
+              <a href="#" class="exam_btn default">by the time (that) ...</a>
+              <a href="#" class="exam_btn default">as if [though] ...</a>
+              <a href="#" class="exam_btn default">even if ...</a>
+              <a href="#" class="exam_btn default">the moment (that) ...</a>
           </div>
         </div>
       </div>
@@ -660,13 +660,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>18</p></div>
-            <p class="exam_word">気候</p>
+            <p class="exam_word">最終的には…することになる</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="17" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630315" data-minexam-id="18">
-              <a href="#" class="exam_btn default">climate</a>
-              <a href="#" class="exam_btn default">beauty</a>
-              <a href="#" class="exam_btn default">air</a>
-              <a href="#" class="exam_btn default">custom</a>
+          <div class="exam_inner_area exam_choice_area" data-index="17" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630815" data-minexam-id="18">
+              <a href="#" class="exam_btn default">give up doing</a>
+              <a href="#" class="exam_btn default">feel like doing</a>
+              <a href="#" class="exam_btn default">end up doing</a>
+              <a href="#" class="exam_btn default">go on doing</a>
           </div>
         </div>
       </div>
@@ -674,13 +674,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>19</p></div>
-            <p class="exam_word">観光客</p>
+            <p class="exam_word">～を理解する</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="18" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630316" data-minexam-id="19">
-              <a href="#" class="exam_btn default">souvenir</a>
-              <a href="#" class="exam_btn default">tourist</a>
-              <a href="#" class="exam_btn default">portrait</a>
-              <a href="#" class="exam_btn default">climate</a>
+          <div class="exam_inner_area exam_choice_area" data-index="18" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630816" data-minexam-id="19">
+              <a href="#" class="exam_btn default">go through</a>
+              <a href="#" class="exam_btn default">end up with</a>
+              <a href="#" class="exam_btn default">figure out ～</a>
+              <a href="#" class="exam_btn default">catch up with</a>
           </div>
         </div>
       </div>
@@ -688,13 +688,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>20</p></div>
-            <p class="exam_word">指導員</p>
+            <p class="exam_word">～に記入する</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="19" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630317" data-minexam-id="20">
-              <a href="#" class="exam_btn default">principal</a>
-              <a href="#" class="exam_btn default">coach</a>
-              <a href="#" class="exam_btn default">professor</a>
-              <a href="#" class="exam_btn default">athlete</a>
+          <div class="exam_inner_area exam_choice_area" data-index="19" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630817" data-minexam-id="20">
+              <a href="#" class="exam_btn default">keep up with ～</a>
+              <a href="#" class="exam_btn default">fill in ～</a>
+              <a href="#" class="exam_btn default">bring about ～</a>
+              <a href="#" class="exam_btn default">go through ～</a>
           </div>
         </div>
       </div>
@@ -702,13 +702,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>21</p></div>
-            <p class="exam_word">土産</p>
+            <p class="exam_word">言い換えると</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="20" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630318" data-minexam-id="21">
-              <a href="#" class="exam_btn default">prize</a>
-              <a href="#" class="exam_btn default">souvenir</a>
-              <a href="#" class="exam_btn default">needle</a>
-              <a href="#" class="exam_btn default">tip</a>
+          <div class="exam_inner_area exam_choice_area" data-index="20" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630818" data-minexam-id="21">
+              <a href="#" class="exam_btn default">in fact</a>
+              <a href="#" class="exam_btn default">at present</a>
+              <a href="#" class="exam_btn default">by nature</a>
+              <a href="#" class="exam_btn default">in other words</a>
           </div>
         </div>
       </div>
@@ -716,13 +716,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>22</p></div>
-            <p class="exam_word">音調</p>
+            <p class="exam_word">（～に）追いつく</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="21" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630319" data-minexam-id="22">
-              <a href="#" class="exam_btn default">sightseeing</a>
-              <a href="#" class="exam_btn default">tune</a>
-              <a href="#" class="exam_btn default">flour</a>
-              <a href="#" class="exam_btn default">entertainment</a>
+          <div class="exam_inner_area exam_choice_area" data-index="21" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630819" data-minexam-id="22">
+              <a href="#" class="exam_btn default">do away (with ～)</a>
+              <a href="#" class="exam_btn default">catch up (with ～)</a>
+              <a href="#" class="exam_btn default">go through (with ～)</a>
+              <a href="#" class="exam_btn default">keep up (with ～)</a>
           </div>
         </div>
       </div>
@@ -730,13 +730,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>23</p></div>
-            <p class="exam_word">（を）訓練する</p>
+            <p class="exam_word">（もし）～の場合は</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="22" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630320" data-minexam-id="23">
-              <a href="#" class="exam_btn default">practice</a>
-              <a href="#" class="exam_btn default">entertain</a>
-              <a href="#" class="exam_btn default">collect</a>
-              <a href="#" class="exam_btn default">train</a>
+          <div class="exam_inner_area exam_choice_area" data-index="22" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630820" data-minexam-id="23">
+              <a href="#" class="exam_btn default">in case of ～</a>
+              <a href="#" class="exam_btn default">in common with ～</a>
+              <a href="#" class="exam_btn default">by means of ～</a>
+              <a href="#" class="exam_btn default">in contrast to ～</a>
           </div>
         </div>
       </div>
@@ -744,13 +744,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>24</p></div>
-            <p class="exam_word">（を）歩き回る</p>
+            <p class="exam_word">～を引き継ぐ</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="23" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630321" data-minexam-id="24">
-              <a href="#" class="exam_btn default">pack</a>
-              <a href="#" class="exam_btn default">practice</a>
-              <a href="#" class="exam_btn default">wander</a>
-              <a href="#" class="exam_btn default">attend</a>
+          <div class="exam_inner_area exam_choice_area" data-index="23" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630821" data-minexam-id="24">
+              <a href="#" class="exam_btn default">take over ～</a>
+              <a href="#" class="exam_btn default">set off for ～</a>
+              <a href="#" class="exam_btn default">turn down ～</a>
+              <a href="#" class="exam_btn default">take in ～</a>
           </div>
         </div>
       </div>
@@ -758,13 +758,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>25</p></div>
-            <p class="exam_word">運動する</p>
+            <p class="exam_word">要約すると</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="24" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630322" data-minexam-id="25">
-              <a href="#" class="exam_btn default">exercise</a>
-              <a href="#" class="exam_btn default">drink</a>
-              <a href="#" class="exam_btn default">cook</a>
-              <a href="#" class="exam_btn default">win</a>
+          <div class="exam_inner_area exam_choice_area" data-index="24" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630822" data-minexam-id="25">
+              <a href="#" class="exam_btn default">for one thing</a>
+              <a href="#" class="exam_btn default">in the long run</a>
+              <a href="#" class="exam_btn default">in short</a>
+              <a href="#" class="exam_btn default">first of all</a>
           </div>
         </div>
       </div>
@@ -772,13 +772,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>26</p></div>
-            <p class="exam_word">を集める</p>
+            <p class="exam_word">～を調べる</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="25" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630323" data-minexam-id="26">
-              <a href="#" class="exam_btn default">cancel</a>
-              <a href="#" class="exam_btn default">collect</a>
-              <a href="#" class="exam_btn default">reserve</a>
-              <a href="#" class="exam_btn default">entertain</a>
+          <div class="exam_inner_area exam_choice_area" data-index="25" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630823" data-minexam-id="26">
+              <a href="#" class="exam_btn default">check out ～</a>
+              <a href="#" class="exam_btn default">bring about ～</a>
+              <a href="#" class="exam_btn default">fill in ～</a>
+              <a href="#" class="exam_btn default">take in ～</a>
           </div>
         </div>
       </div>
@@ -786,13 +786,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>27</p></div>
-            <p class="exam_word">（周遊）旅行</p>
+            <p class="exam_word">いろいろな～</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="26" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630324" data-minexam-id="27">
-              <a href="#" class="exam_btn default">guide</a>
-              <a href="#" class="exam_btn default">tour</a>
-              <a href="#" class="exam_btn default">camp</a>
-              <a href="#" class="exam_btn default">voyage</a>
+          <div class="exam_inner_area exam_choice_area" data-index="26" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630824" data-minexam-id="27">
+              <a href="#" class="exam_btn default">a kind of ～</a>
+              <a href="#" class="exam_btn default">a series of ～</a>
+              <a href="#" class="exam_btn default">a lot of ～</a>
+              <a href="#" class="exam_btn default">a variety of ～</a>
           </div>
         </div>
       </div>
@@ -800,13 +800,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>28</p></div>
-            <p class="exam_word">賞，賞金</p>
+            <p class="exam_word">離れた所に</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="27" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630325" data-minexam-id="28">
-              <a href="#" class="exam_btn default">award</a>
-              <a href="#" class="exam_btn default">engine</a>
-              <a href="#" class="exam_btn default">adventure</a>
-              <a href="#" class="exam_btn default">appetite</a>
+          <div class="exam_inner_area exam_choice_area" data-index="27" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630825" data-minexam-id="28">
+              <a href="#" class="exam_btn default">on the whole</a>
+              <a href="#" class="exam_btn default">in general</a>
+              <a href="#" class="exam_btn default">for a moment</a>
+              <a href="#" class="exam_btn default">at [from] a distance</a>
           </div>
         </div>
       </div>
@@ -814,13 +814,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>29</p></div>
-            <p class="exam_word">屋内の</p>
+            <p class="exam_word">～のために</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="28" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630326" data-minexam-id="29">
-              <a href="#" class="exam_btn default">plain</a>
-              <a href="#" class="exam_btn default">professional</a>
-              <a href="#" class="exam_btn default">instant</a>
-              <a href="#" class="exam_btn default">indoor</a>
+          <div class="exam_inner_area exam_choice_area" data-index="28" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630826" data-minexam-id="29">
+              <a href="#" class="exam_btn default">plenty of ～</a>
+              <a href="#" class="exam_btn default">because of ～</a>
+              <a href="#" class="exam_btn default">according to ～</a>
+              <a href="#" class="exam_btn default">except for ～</a>
           </div>
         </div>
       </div>
@@ -828,13 +828,13 @@
         <div class="tablet_inner_article">
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>30</p></div>
-            <p class="exam_word">を展示する</p>
+            <p class="exam_word">すなわち</p>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="29" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630327" data-minexam-id="30">
-              <a href="#" class="exam_btn default">exhibit</a>
-              <a href="#" class="exam_btn default">hunt</a>
-              <a href="#" class="exam_btn default">search</a>
-              <a href="#" class="exam_btn default">express</a>
+          <div class="exam_inner_area exam_choice_area" data-index="29" data-question-type="1" data-name="ja_to_enbox" data-question-id="13630827" data-minexam-id="30">
+              <a href="#" class="exam_btn default">on the other hand</a>
+              <a href="#" class="exam_btn default">to make matters worse</a>
+              <a href="#" class="exam_btn default">in particular</a>
+              <a href="#" class="exam_btn default">that is (to say)</a>
           </div>
         </div>
       </div>
@@ -858,19 +858,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>31</p></div>
               <div class="exam_sentence_filling_question">
-                He painted his wife’s (　　) in a week.
+                How about going by train (　　) by bike?
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼は1週間で妻の肖像画を描いた。
+                自転車ではなくて電車で行かない？
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="0" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630328" data-minexam-id="31">
-              <a href="#" class="exam_btn default">portrait</a>
-              <a href="#" class="exam_btn default">umbrella</a>
-              <a href="#" class="exam_btn default">cartoon</a>
-              <a href="#" class="exam_btn default">instrument</a>
+          <div class="exam_inner_area exam_choice_area" data-index="0" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630828" data-minexam-id="31">
+              <a href="#" class="exam_btn default">nothing but</a>
+              <a href="#" class="exam_btn default">instead of</a>
+              <a href="#" class="exam_btn default">in case of</a>
+              <a href="#" class="exam_btn default">on account of</a>
           </div>
         </div>
       </div>
@@ -879,19 +879,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>32</p></div>
               <div class="exam_sentence_filling_question">
-                They won a great (　　) over the national team.
+                The results of their experiment were (　　) ours.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼らは国の代表チームに大勝利を収めた。
+                彼らの実験結果は私たちのとは対照的だった。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="1" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630329" data-minexam-id="32">
-              <a href="#" class="exam_btn default">race</a>
-              <a href="#" class="exam_btn default">record</a>
-              <a href="#" class="exam_btn default"> victory</a>
-              <a href="#" class="exam_btn default">match</a>
+          <div class="exam_inner_area exam_choice_area" data-index="1" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630829" data-minexam-id="32">
+              <a href="#" class="exam_btn default">in common with </a>
+              <a href="#" class="exam_btn default">by means of</a>
+              <a href="#" class="exam_btn default">as for</a>
+              <a href="#" class="exam_btn default">in contrast to</a>
           </div>
         </div>
       </div>
@@ -900,19 +900,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>33</p></div>
               <div class="exam_sentence_filling_question">
-                The tour (　　) told us the special spot.
+                The failure was (　　) a lack of preparation.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                観光ガイドは私たちに特別な場所を教えてくれた。
+                その失敗は準備不足が原因だった。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="2" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630330" data-minexam-id="33">
-              <a href="#" class="exam_btn default">servant</a>
-              <a href="#" class="exam_btn default">guide</a>
-              <a href="#" class="exam_btn default">expert</a>
-              <a href="#" class="exam_btn default">clerk</a>
+          <div class="exam_inner_area exam_choice_area" data-index="2" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630830" data-minexam-id="33">
+              <a href="#" class="exam_btn default">according to</a>
+              <a href="#" class="exam_btn default">after all</a>
+              <a href="#" class="exam_btn default">except for</a>
+              <a href="#" class="exam_btn default">due to</a>
           </div>
         </div>
       </div>
@@ -921,19 +921,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>34</p></div>
               <div class="exam_sentence_filling_question">
-                She’s still active as a (　　) skater.
+                (　　) her recommendation, I got the chance.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼女はプロスケーターとしてなおも活躍している。
+                彼女の推薦のおかげで，私はその機会を得られた。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="3" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630331" data-minexam-id="34">
-              <a href="#" class="exam_btn default">weak</a>
-              <a href="#" class="exam_btn default">formal</a>
-              <a href="#" class="exam_btn default">smart</a>
-              <a href="#" class="exam_btn default">professional </a>
+          <div class="exam_inner_area exam_choice_area" data-index="3" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630831" data-minexam-id="34">
+              <a href="#" class="exam_btn default">Except for</a>
+              <a href="#" class="exam_btn default">Along with</a>
+              <a href="#" class="exam_btn default">Thanks to</a>
+              <a href="#" class="exam_btn default">In favor of</a>
           </div>
         </div>
       </div>
@@ -942,19 +942,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>35</p></div>
               <div class="exam_sentence_filling_question">
-                Cooking and reading are among my (　　).
+                Did you (　　) you locked the door?
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                料理と読書は私の趣味だ。
+                ドアに鍵をかけたか確かめましたか。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="4" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630332" data-minexam-id="35">
-              <a href="#" class="exam_btn default">housework</a>
-              <a href="#" class="exam_btn default">hobbies</a>
-              <a href="#" class="exam_btn default">visions</a>
-              <a href="#" class="exam_btn default">cultures</a>
+          <div class="exam_inner_area exam_choice_area" data-index="4" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630832" data-minexam-id="35">
+              <a href="#" class="exam_btn default">make sure</a>
+              <a href="#" class="exam_btn default">make sense</a>
+              <a href="#" class="exam_btn default">set up</a>
+              <a href="#" class="exam_btn default">make up your mind</a>
           </div>
         </div>
       </div>
@@ -963,19 +963,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>36</p></div>
               <div class="exam_sentence_filling_question">
-                He did (　　) in Taipei with his local friends.
+                I have (　　) praise for them.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼は地元の友人たちと台北観光をした。
+                彼らには賞賛の言葉しかない。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="5" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630333" data-minexam-id="36">
-              <a href="#" class="exam_btn default">travel</a>
-              <a href="#" class="exam_btn default">voyage</a>
-              <a href="#" class="exam_btn default">sightseeing</a>
-              <a href="#" class="exam_btn default">tour</a>
+          <div class="exam_inner_area exam_choice_area" data-index="5" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630833" data-minexam-id="36">
+              <a href="#" class="exam_btn default">nothing but</a>
+              <a href="#" class="exam_btn default">more or less</a>
+              <a href="#" class="exam_btn default">in the past</a>
+              <a href="#" class="exam_btn default">in the end</a>
           </div>
         </div>
       </div>
@@ -984,19 +984,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>37</p></div>
               <div class="exam_sentence_filling_question">
-                I’m a great fan of American (　　).
+                (　　) we’re all here, let’s get started.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                私はアメリカのコミックの熱烈なファンだ。
+                それではみんな揃ったので，始めましょう。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="6" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630334" data-minexam-id="37">
-              <a href="#" class="exam_btn default">magic</a>
-              <a href="#" class="exam_btn default">hobbies</a>
-              <a href="#" class="exam_btn default">comics</a>
-              <a href="#" class="exam_btn default">cultures</a>
+          <div class="exam_inner_area exam_choice_area" data-index="6" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630834" data-minexam-id="37">
+              <a href="#" class="exam_btn default">As though</a>
+              <a href="#" class="exam_btn default">Even if</a>
+              <a href="#" class="exam_btn default">Now that</a>
+              <a href="#" class="exam_btn default">By the time that </a>
           </div>
         </div>
       </div>
@@ -1005,19 +1005,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>38</p></div>
               <div class="exam_sentence_filling_question">
-                The (　　) was slow but the food was good.
+                We’d better (　　) full (　　) the opportunity.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                接客は遅いが食事はよかった。
+                私たちはその機会を最大限活用するべきだ。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="7" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630335" data-minexam-id="38">
-              <a href="#" class="exam_btn default">meal</a>
-              <a href="#" class="exam_btn default">tip</a>
-              <a href="#" class="exam_btn default">service</a>
-              <a href="#" class="exam_btn default">meat</a>
+          <div class="exam_inner_area exam_choice_area" data-index="7" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630835" data-minexam-id="38">
+              <a href="#" class="exam_btn default">take, advantage of</a>
+              <a href="#" class="exam_btn default">set, off for</a>
+              <a href="#" class="exam_btn default">make, sure of </a>
+              <a href="#" class="exam_btn default">get, rid of</a>
           </div>
         </div>
       </div>
@@ -1026,19 +1026,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>39</p></div>
               <div class="exam_sentence_filling_question">
-                Do you play any musical (　　)?
+                I’ve been absent from school (　　) illness.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                あなたは何か楽器を演奏しますか。
+                私は病気のために学校を休んでいる。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="8" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630336" data-minexam-id="39">
-              <a href="#" class="exam_btn default">images</a>
-              <a href="#" class="exam_btn default">instruments</a>
-              <a href="#" class="exam_btn default">projects</a>
-              <a href="#" class="exam_btn default">successes</a>
+          <div class="exam_inner_area exam_choice_area" data-index="8" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630836" data-minexam-id="39">
+              <a href="#" class="exam_btn default">in terms of</a>
+              <a href="#" class="exam_btn default">in addition to</a>
+              <a href="#" class="exam_btn default">on account of</a>
+              <a href="#" class="exam_btn default">in case of</a>
           </div>
         </div>
       </div>
@@ -1047,19 +1047,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>40</p></div>
               <div class="exam_sentence_filling_question">
-                The two schools have always been (　　) in baseball.
+                I need you to return it (　　) soon (　　).
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                その2校は野球で常にライバル関係にある。
+                君にはできるだけ早くそれを返してほしいのだけど。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="9" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630337" data-minexam-id="40">
-              <a href="#" class="exam_btn default">relatives</a>
-              <a href="#" class="exam_btn default">ancestors</a>
-              <a href="#" class="exam_btn default">rivals</a>
-              <a href="#" class="exam_btn default">coaches</a>
+          <div class="exam_inner_area exam_choice_area" data-index="9" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630837" data-minexam-id="40">
+              <a href="#" class="exam_btn default">in a, hurry</a>
+              <a href="#" class="exam_btn default">as, as over</a>
+              <a href="#" class="exam_btn default">as, as possible</a>
+              <a href="#" class="exam_btn default">as, as ever</a>
           </div>
         </div>
       </div>
@@ -1068,19 +1068,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>41</p></div>
               <div class="exam_sentence_filling_question">
-                We played a tough (　　) in bad weather.
+                The ATM is right (　　) the exit.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                私たちは悪天候の中で大変な試合をした。
+                ATMなら出口のすぐ隣にありますよ。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="10" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630338" data-minexam-id="41">
-              <a href="#" class="exam_btn default">match</a>
-              <a href="#" class="exam_btn default">film</a>
-              <a href="#" class="exam_btn default">camp</a>
-              <a href="#" class="exam_btn default">trip</a>
+          <div class="exam_inner_area exam_choice_area" data-index="10" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630838" data-minexam-id="41">
+              <a href="#" class="exam_btn default">more than</a>
+              <a href="#" class="exam_btn default">in time for</a>
+              <a href="#" class="exam_btn default">face to face with</a>
+              <a href="#" class="exam_btn default">next to</a>
           </div>
         </div>
       </div>
@@ -1089,19 +1089,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>42</p></div>
               <div class="exam_sentence_filling_question">
-                Could we still (　　) our order?
+                (　　) myself, I prefer living in the country to the city.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                注文のキャンセルはまだ間に合いますか。
+                私自身について言えば，都会よりも田舎に住む方が好きです。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="11" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630339" data-minexam-id="42">
-              <a href="#" class="exam_btn default">cancel</a>
-              <a href="#" class="exam_btn default">beat</a>
-              <a href="#" class="exam_btn default">reserve</a>
-              <a href="#" class="exam_btn default">announce</a>
+          <div class="exam_inner_area exam_choice_area" data-index="11" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630839" data-minexam-id="42">
+              <a href="#" class="exam_btn default">As for</a>
+              <a href="#" class="exam_btn default">Due to</a>
+              <a href="#" class="exam_btn default">Far from</a>
+              <a href="#" class="exam_btn default">According to</a>
           </div>
         </div>
       </div>
@@ -1110,19 +1110,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>43</p></div>
               <div class="exam_sentence_filling_question">
-                I’m good at doing (　　).
+                He looks (　　) he’s very satisfied with the service.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                私は手品をするのが得意だ。
+                彼はサービスにとても満足しているようだ。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="12" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630340" data-minexam-id="43">
-              <a href="#" class="exam_btn default">film</a>
-              <a href="#" class="exam_btn default">castle</a>
-              <a href="#" class="exam_btn default">magic</a>
-              <a href="#" class="exam_btn default">jewel</a>
+          <div class="exam_inner_area exam_choice_area" data-index="12" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630840" data-minexam-id="43">
+              <a href="#" class="exam_btn default">the first time</a>
+              <a href="#" class="exam_btn default">as if</a>
+              <a href="#" class="exam_btn default">even if</a>
+              <a href="#" class="exam_btn default">the moment</a>
           </div>
         </div>
       </div>
@@ -1131,19 +1131,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>44</p></div>
               <div class="exam_sentence_filling_question">
-                The trip to Tokyo was quite an (　　) when I was little.
+                For better communication, (　　), learn to be a good listener.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                子供の頃，東京への旅はかなりの冒険だった。
+                よりよいコミュニケーションには，まず第一に，聞き上手になること。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="13" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630341" data-minexam-id="44">
-              <a href="#" class="exam_btn default">entertainment</a>
-              <a href="#" class="exam_btn default">umbrella</a>
-              <a href="#" class="exam_btn default">atmosphere</a>
-              <a href="#" class="exam_btn default">adventure</a>
+          <div class="exam_inner_area exam_choice_area" data-index="13" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630841" data-minexam-id="44">
+              <a href="#" class="exam_btn default">in a way</a>
+              <a href="#" class="exam_btn default">at present</a>
+              <a href="#" class="exam_btn default">later on</a>
+              <a href="#" class="exam_btn default">to begin with</a>
           </div>
         </div>
       </div>
@@ -1152,19 +1152,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>45</p></div>
               <div class="exam_sentence_filling_question">
-                They (　　) shooting a ball over and over.
+                She had trouble (　　) a computer virus.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼らは何度もボールをシュートする練習をした。
+                彼女はコンピューターウイルスを除去するのに苦労した。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="14" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630342" data-minexam-id="45">
-              <a href="#" class="exam_btn default">mixed</a>
-              <a href="#" class="exam_btn default">collected</a>
-              <a href="#" class="exam_btn default">practiced</a>
-              <a href="#" class="exam_btn default">repeated</a>
+          <div class="exam_inner_area exam_choice_area" data-index="14" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630842" data-minexam-id="45">
+              <a href="#" class="exam_btn default">bringing about</a>
+              <a href="#" class="exam_btn default">getting rid of</a>
+              <a href="#" class="exam_btn default">filling in</a>
+              <a href="#" class="exam_btn default">having nothing to do with</a>
           </div>
         </div>
       </div>
@@ -1173,19 +1173,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>46</p></div>
               <div class="exam_sentence_filling_question">
-                Our club has a summer (　　) in Nagano every year.
+                You (　　) make me smile.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                私たちのクラブは毎年長野で夏合宿をする。
+                君はいつも私を笑顔にしてくれるね。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="15" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630343" data-minexam-id="46">
-              <a href="#" class="exam_btn default">camp</a>
-              <a href="#" class="exam_btn default">vacation</a>
-              <a href="#" class="exam_btn default">route</a>
-              <a href="#" class="exam_btn default">journey</a>
+          <div class="exam_inner_area exam_choice_area" data-index="15" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630843" data-minexam-id="46">
+              <a href="#" class="exam_btn default">never fail to</a>
+              <a href="#" class="exam_btn default">feel free to</a>
+              <a href="#" class="exam_btn default">are unable to</a>
+              <a href="#" class="exam_btn default">set out to</a>
           </div>
         </div>
       </div>
@@ -1194,19 +1194,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>47</p></div>
               <div class="exam_sentence_filling_question">
-                They (　　) the island all day.
+                This one is reasonable. (　　), that one is popular.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼らは終日その島を探検した。
+                これは価格が手ごろだ。その一方で，あちらは評判がいい。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="16" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630344" data-minexam-id="47">
-              <a href="#" class="exam_btn default">hunted</a>
-              <a href="#" class="exam_btn default">disturbed</a>
-              <a href="#" class="exam_btn default">searched</a>
-              <a href="#" class="exam_btn default">explored</a>
+          <div class="exam_inner_area exam_choice_area" data-index="16" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630844" data-minexam-id="47">
+              <a href="#" class="exam_btn default">One after another</a>
+              <a href="#" class="exam_btn default">In fact</a>
+              <a href="#" class="exam_btn default">On the other hand</a>
+              <a href="#" class="exam_btn default">Little by little</a>
           </div>
         </div>
       </div>
@@ -1215,19 +1215,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>48</p></div>
               <div class="exam_sentence_filling_question">
-                They’ve made a long (　　) through Africa.
+                He (　　) write his first novel.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼らはアフリカ縦断の長い旅をしたことがある。
+                彼は自身初の小説執筆に着手した。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="17" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630345" data-minexam-id="48">
-              <a href="#" class="exam_btn default">adventure</a>
-              <a href="#" class="exam_btn default"> journey</a>
-              <a href="#" class="exam_btn default">vacation</a>
-              <a href="#" class="exam_btn default">camp</a>
+          <div class="exam_inner_area exam_choice_area" data-index="17" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630845" data-minexam-id="48">
+              <a href="#" class="exam_btn default">caught up to</a>
+              <a href="#" class="exam_btn default">never failed to</a>
+              <a href="#" class="exam_btn default">was unable to</a>
+              <a href="#" class="exam_btn default">set out to</a>
           </div>
         </div>
       </div>
@@ -1236,19 +1236,19 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>49</p></div>
               <div class="exam_sentence_filling_question">
-                I can’t wait to run in the big (　　).
+                I had to (　　) late three days in a row.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                その大きなレースで走るのが待ちきれない。
+                私は3日続けて夜遅くまで起きていなければならなかった。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="18" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630346" data-minexam-id="49">
-              <a href="#" class="exam_btn default">job</a>
-              <a href="#" class="exam_btn default"> race</a>
-              <a href="#" class="exam_btn default">prize</a>
-              <a href="#" class="exam_btn default">battle</a>
+          <div class="exam_inner_area exam_choice_area" data-index="18" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630846" data-minexam-id="49">
+              <a href="#" class="exam_btn default">stay up</a>
+              <a href="#" class="exam_btn default">set off </a>
+              <a href="#" class="exam_btn default">end up </a>
+              <a href="#" class="exam_btn default">set up</a>
           </div>
         </div>
       </div>
@@ -1257,25 +1257,25 @@
           <div class="exam_inner_area">
             <div class="exam_inner_label"><p>50</p></div>
               <div class="exam_sentence_filling_question">
-                She advanced to the second round of the tennis (　　).
+                Everyone can enjoy the exhibit (　　) age.
               </div>
           </div>
           <div class="exam_inner_area">
               <div class="exam_sentence_filling_question">
-                彼女はテニストーナメントの2回戦に進出した。
+                年齢に関係なく誰もがその展示会を楽しめる。
               </div>
           </div>
-          <div class="exam_inner_area exam_choice_area" data-index="19" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630347" data-minexam-id="50">
-              <a href="#" class="exam_btn default">record</a>
-              <a href="#" class="exam_btn default">victory</a>
-              <a href="#" class="exam_btn default">score</a>
-              <a href="#" class="exam_btn default">tournament</a>
+          <div class="exam_inner_area exam_choice_area" data-index="19" data-question-type="6" data-name="sentence_filling_box" data-question-id="13630847" data-minexam-id="50">
+              <a href="#" class="exam_btn default">regardless of</a>
+              <a href="#" class="exam_btn default">on account of</a>
+              <a href="#" class="exam_btn default">in case of</a>
+              <a href="#" class="exam_btn default">instead of</a>
           </div>
         </div>
       </div>
 
 
-  <a href="#back-modal" class="back-modal" style="display:none;" data-modaal-scope="modaal_1723224837042aff3a5af0a021">Show</a>
+  <a href="#back-modal" class="back-modal" style="display:none;" data-modaal-scope="modaal_1723653836792797158d15a0e5">Show</a>
   <div id="back-modal" style="display:none;">
     <p class="flex_article">テストの途中では戻れません。</p>
     <div class="modaal-confirm-wrap">
@@ -1283,7 +1283,7 @@
     </div>
   </div>
 
-  <a href="#expired-modal" class="expired-modal" style="display:none;" data-modaal-scope="modaal_17232248370421a948a9af84ac">Show</a>
+  <a href="#expired-modal" class="expired-modal" style="display:none;" data-modaal-scope="modaal_1723653836792eb2d234a9f543">Show</a>
   <div id="expired-modal" style="display:none;">
     <p class="flex_article">解答時間が過ぎました。<br>答案を提出します。</p>
     <div class="modaal-confirm-wrap">
@@ -1291,17 +1291,17 @@
     </div>
   </div>
 
-  <form format="json" id="min_exam_post" action="/students/exam/create_result" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wbtk0UzgRy8L6accnTtB8xnkk+QiHFA3w1YnxJvOwSp/3ZrvGLeiw3DiqH3sE6Z1I0vwZL1evuW6q4gd7cAcqg==">
+  <form format="json" id="min_exam_post" action="/students/exam/create_result" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fmRWgwmBqJoRFnJa0ogAIxiCZieK7stPFDlTgIP1bBfAAqi9XdZNdmodfTujoOelIi0FpxWsJZ1txPxZ9fuxlw==">
     <input type="hidden" name="exam_data" id="exam_data" value="">
     <input type="hidden" name="answer_data" id="answer_data" value="">
 </form>
   <script>
 //<![CDATA[
 
-      window.exam_id = 747161;
+      window.exam_id = 747171;
     window.student_id = 184117;
     window.school_class_id = 10839;
-    window.unanswered = [13630298, 13630299, 13630300, 13630301, 13630302, 13630303, 13630304, 13630305, 13630306, 13630307, 13630308, 13630309, 13630310, 13630311, 13630312, 13630313, 13630314, 13630315, 13630316, 13630317, 13630318, 13630319, 13630320, 13630321, 13630322, 13630323, 13630324, 13630325, 13630326, 13630327, 13630328, 13630329, 13630330, 13630331, 13630332, 13630333, 13630334, 13630335, 13630336, 13630337, 13630338, 13630339, 13630340, 13630341, 13630342, 13630343, 13630344, 13630345, 13630346, 13630347];
+    window.unanswered = [13630798, 13630799, 13630800, 13630801, 13630802, 13630803, 13630804, 13630805, 13630806, 13630807, 13630808, 13630809, 13630810, 13630811, 13630812, 13630813, 13630814, 13630815, 13630816, 13630817, 13630818, 13630819, 13630820, 13630821, 13630822, 13630823, 13630824, 13630825, 13630826, 13630827, 13630828, 13630829, 13630830, 13630831, 13630832, 13630833, 13630834, 13630835, 13630836, 13630837, 13630838, 13630839, 13630840, 13630841, 13630842, 13630843, 13630844, 13630845, 13630846, 13630847];
     window.deadline = 15;
 
 //]]>
@@ -1310,7 +1310,7 @@
 <div id="min_exam_footer">
   <div id="js-exam_confirm">
     <p>未解答問題が<span id="js-unanswered_count">50</span>問あります</p>
-    <button name="button" type="submit" class="submit blue" data-disable-with="答案を提出する" data-modaal-scope="modaal_17232248371250ff64e556fd1">答案を提出する</button>
+    <button name="button" type="submit" class="submit blue" data-disable-with="答案を提出する" data-modaal-scope="modaal_17236538368470566df66ef5a3">答案を提出する</button>
   </div>
 </div>
 
